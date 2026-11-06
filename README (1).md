@@ -41,17 +41,17 @@ Screen flow: `Login ⇄ Sign Up`, `Login ⇄ Forgot Password`, `Login → Menu �
 
 | Section | Courses | Dishes |
 |---|---|---|
-| 🍽️ Food | Starter, Main Course | Salmon Sushi Platter, Rainbow Sushi Rolls, Classic Cheddar Burger, Cheeseburger & Chips, Supreme Pizza, Soba Noodle Stir-Fry |
-| 🍹 Drinks | Drinks | Passion Fruit Mint Cooler, Mixed Berry Mocktail Trio, Blue Lagoon Mocktail, Strawberry Basil Sparkler, Golden Pumpkin Juice |
-| 🍰 Dessert | Dessert | Raspberry Cream Trifle, Peanut Butter Chocolate Bar, Strawberry Shortcake Cups |
+|  Food | Starter, Main Course | Salmon Sushi Platter, Rainbow Sushi Rolls, Classic Cheddar Burger, Cheeseburger & Chips, Supreme Pizza, Soba Noodle Stir-Fry |
+|  Drinks | Drinks | Passion Fruit Mint Cooler, Mixed Berry Mocktail Trio, Blue Lagoon Mocktail, Strawberry Basil Sparkler, Golden Pumpkin Juice |
+|  Dessert | Dessert | Raspberry Cream Trifle, Peanut Butter Chocolate Bar, Strawberry Shortcake Cups |
 
-Every dish also shows a preparation time ⏱️ and optional tags (⭐ Chef's Pick, 🌱 Vegetarian, 🌶️ Spicy, 🧃 Alcohol-Free, 🥜 Contains Nuts).
+Every dish also shows a preparation time  and optional tags ( Chef's Pick,  Vegetarian,  Spicy,  Alcohol-Free,  Contains Nuts).
 
 ## 4. Rubric checklist (what to show for each mark)
 
 | Rubric item | Where / how to show it |
 |---|---|
-| **Manage Menu Items (25)** | **✏️ Edit** on a card → change details → **Save Changes**; **🗑️ Delete** → confirm. Changes show instantly on the Menu and Statistics screens (one shared state). |
+| **Manage Menu Items (25)** | ** Edit** on a card → change details → **Save Changes**; **🗑️ Delete** → confirm. Changes show instantly on the Menu and Statistics screens (one shared state). |
 | **Search and Filter (20)** | Search bar (by name, as you type) + course chips (Starter / Main Course / Dessert / Drinks) + **Clear filters** + "Showing X of Y dishes" + "No dishes found" screen. |
 | **Display Menu Statistics (20)** | **Statistics** tab: total items, average price, items per course (colour bars), plus average per course and cheapest / most expensive dish. |
 | **Enhance the Application (25)** | Reusable components and functions, shared state, one form for add + edit, full validation, TypeScript types, consistent theme (details in `CHANGELOG.md`). |
